@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit>=1.31.0
+streamlit-webrtc>=0.47.1
+aiortc>=1.5.0
+opencv-python-headless>=4.8.1.78
+numpy>=1.24.3
+streamlit-elements>=0.1.0
+streamlit-custom-notification-box>=0.1.1
+streamlit-card>=0.0.61
+streamlit-chat>=0.1.1
